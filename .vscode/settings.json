@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Snake AI_1.1_nowy_dzialajacy.sln"
+    "dotnet.defaultSolution": "Snake_duel_AI.sln"
 }
